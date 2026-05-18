@@ -14,6 +14,6 @@ Todas as estratégias seguem o contrato de uma interface, ou seja, todas tem a m
 
 <p>Princípio aberto/fechado. Você pode introduzir novas estratégias sem mudar o contexto. Basicamente, sem ficar adicionando IF/ELSE e Switch Cases no seu código.</p>
 
-# Video Mostrando a implementação + caso real de uso
+# Video mostrando a implementação + caso real de uso
 
 <a href="https://www.youtube.com/watch?v=ZDVIU3gJeFc&t=255s" target="_blank">Vídeo explicativo e com exemplo<a/>
